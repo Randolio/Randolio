@@ -9,6 +9,6 @@ I do things on FiveM <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 </div>
 
 ### :fire: My Stats :
-[![Randolio's GitHub stats](https://github-readme-stats.vercel.app/api?username=randolio)](https://github.com/anuraghazra/github-readme-stats)
+![Randolio's GitHub stats](https://github-readme-stats.vercel.app/api?username=randolio&show_icons=true&theme=radical)
 
 
