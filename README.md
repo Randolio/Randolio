@@ -1,5 +1,3 @@
----
-
 ### :woman_technologist: About Me :
 I do things on FiveM <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 
